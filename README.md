@@ -11,14 +11,14 @@ ____________________
     $ pkg install python -y
     $ git clone https://github.com/Saikohackerteamrm/FB_CLONER_MIXED
     $ cd FB_CLONER_MIXED
-    $ python Mithila.py
+    $ python Mittha.py
     
 
 _______________________________________
 
     # Single installation command
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/FB_CLONER_MIXED && cd FB_CLONER_MIXED && python Mithila.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y  && git clone https://github.com/Saikohackerteamrm/FB_CLONER_MIXED && cd FB_CLONER_MIXED && python Mittha.py
  ### Hi there 👋
 
 <!--
